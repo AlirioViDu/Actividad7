@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;    
+}
+body {
+    background-color: #03c0c049;
+    margin: 0;
+}
+
+.iconopsicologia {    
+    margin: auto;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.col-6 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  ;
+    font-size: medium;
+}
+
+.img {
+    height: 100%;
+    width: 100%;
+    margin: 5px 5px;
+}
+
+.carousel-item {
+    height: 70%;
+    width: 70%;
+}
+
+img.social {
+	width: 40px;
+    margin: 30px 5px;
+}
